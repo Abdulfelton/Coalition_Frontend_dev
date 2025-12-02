@@ -8,4 +8,5 @@ export default defineConfig({
     react(),        // Required for React + TSX
     tailwindcss(),  // Enables Tailwind support
   ],
+  base: "/Coalition_Frontend_dev",
 })
